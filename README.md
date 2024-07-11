@@ -36,3 +36,9 @@ This project demonstrates a simple live video streaming application using Flask 
     pip install -r requirements.txt
 
 
+
+## File Structure
+
+- **app.py:** The main application file that sets up the Flask server and handles video streaming.
+- **templates/index.html:** The HTML template for the main page.
+
